@@ -45,7 +45,7 @@ Convert bitmaps into precise vector graphics using CorelDRAW’s AI-Powered Trac
 ### 🖼 Preview
 
 CorelDRAW’s AI Trace Engine converting photo into vector shapes  
-![Screenshot](https://www.zdnet.com/a/img/resize/eaa12e937c6e7d3a51cf7578fa126b2cdb2fe149/2020/09/16/f9ed7fce-c1ae-49e1-b90c-97a75e260171/coreldraw-technical-suite-callouts.jpg)  
+![Screenshot](https://www.coreldraw.com/static/cdgs/images/learn/tutorials/impressive-bitmap-to-vector-trace/win-powertrace-01.png)  
 *Smarter, faster, cleaner vector conversion — powered by AI*
 
 ---
